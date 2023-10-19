@@ -1,0 +1,16 @@
+total 2.0K
+drwxr-xr-x 1 kne25 197609 0 Oct 19 22:49 1/
+drwxr-xr-x 1 kne25 197609 0 Oct 19 22:49 2/
+drwxr-xr-x 1 kne25 197609 0 Oct 19 22:49 3/
+drwxr-xr-x 1 kne25 197609 0 Oct 19 23:09 4/
+-rw-r--r-- 1 kne25 197609 0 Oct 19 23:12 file_list.txt
+-rw-r--r-- 1 kne25 197609 3 Oct 19 23:08 실습1.txt
+-rw-r--r-- 1 kne25 197609 7 Oct 19 23:08 실습2.txt
+total 3.0K
+drwxr-xr-x 1 kne25 197609   0 Oct 19 22:49 1/
+drwxr-xr-x 1 kne25 197609   0 Oct 19 22:49 2/
+drwxr-xr-x 1 kne25 197609   0 Oct 19 22:49 3/
+drwxr-xr-x 1 kne25 197609   0 Oct 19 23:09 4/
+-rw-r--r-- 1 kne25 197609 348 Oct 19 23:12 file_list.txt
+-rw-r--r-- 1 kne25 197609   3 Oct 19 23:08 실습1.txt
+-rw-r--r-- 1 kne25 197609   7 Oct 19 23:08 실습2.txt
